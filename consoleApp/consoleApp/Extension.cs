@@ -9,5 +9,9 @@ namespace consoleApp
         public static string Encode() {
             return string.Empty;
         }
+
+        public static string Decode() {
+            return string.Empty;
+        }
     }
 }
